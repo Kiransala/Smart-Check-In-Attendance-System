@@ -1,4 +1,4 @@
-# Smart-Check-In-Attendance-System using Flask and OpenCV
+# SmartCheckIn - Attendance System using Flask and OpenCV
 
 This is a face recognition attendance system built using Flask and OpenCV libraries of Python. It captures images through the webcam, extracts faces from the image using Haar Cascade Classifier, and identifies the face using a pre-trained K-Nearest Neighbors (KNN) classifier model. The identified user is then marked present in the attendance record.
 
@@ -18,13 +18,9 @@ This is a face recognition attendance system built using Flask and OpenCV librar
 git clone https://github.com/Kiransala/Smart-Check-In-Attendance-System.git
 ```
 
-1. Install the required libraries:
+2. Install the required libraries.
 
-```
-pip install -r requirements.txt
-```
-
-1. Run the Flask app:
+3. Run the Flask app:
 
 ```
 python app.py
