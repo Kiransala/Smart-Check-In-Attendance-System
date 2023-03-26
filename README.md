@@ -15,7 +15,7 @@ This is a face recognition attendance system built using Flask and OpenCV librar
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/<username>/face-recognition-attendance-system.git
+git clone https://github.com/Kiransala/Smart-Check-In-Attendance-System.git
 ```
 
 1. Install the required libraries:
